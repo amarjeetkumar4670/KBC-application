@@ -28,7 +28,3 @@ for x in range(len(questions)):
         print("wrong answer")
         break
 print(f"Your Winning Amount is {total_prise_won}")
-
-  
-
-             
